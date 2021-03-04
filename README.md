@@ -8,6 +8,8 @@
 
 [EJ_LIMPIEZA_EQUPO1](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Ej_Limpieza_Equipo1.ipynb)
 
+[AVANCE PIA EQUIPO 1](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Avance1_PIA_Equipo1.ipynb)
+
 
 ##FASE II
 
