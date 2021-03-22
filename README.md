@@ -19,6 +19,6 @@
 
 [Mini Examen Técnicas de Minería](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Calificaci%C3%B3n_SeriesDeTiempo_Equipo1.pdf)
 
-[MAPA MENTAL II]/(https://github.com/Erickrodriguez3/mineria-datos/blob/main/MapaMental_2_1803744.docx)
+[MAPA_MENTAL_II]/(https://github.com/Erickrodriguez3/mineria-datos/blob/main/MapaMental_2_1803744.docx)
 
 ##FASE III
